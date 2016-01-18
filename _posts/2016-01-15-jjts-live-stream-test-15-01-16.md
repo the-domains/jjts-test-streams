@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T16:18:20.640Z'
-dateModified: '2016-01-18T11:42:55.374Z'
+datePublished: '2016-01-18T17:22:16.207Z'
+dateModified: '2016-01-18T17:22:13.448Z'
 title: JJTS Live Stream Test 15-01-16
 author: []
 sourcePath: _posts/2016-01-15-jjts-live-stream-test-15-01-16.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: jjts-live-stream-test-15-01-16/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b1d673291a6eedfb20b259724228805bab49f13.png)
