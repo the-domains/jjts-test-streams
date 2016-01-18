@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JJTS Test Streams]]></title>
         <description><![CDATA[JJTS Test Streams]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jjts-test-streams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 16:19:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 16:19:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jjts-test-streams/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JJTS Live Stream Test 15-01-16]]></title>
+            <description><![CDATA[<article><h1>JJTS Live Stream Test 15-01-16</h1><p>This is the text to introduce this live event</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ed16cc5bc9d545fdcc328b4a2c96ae7e80addb6.png"></article>]]></description>
+            <link>https://thegrid.ai/jjts-test-streams/jjts-live-stream-test-15-01-16/index.html</link>
+            <guid isPermaLink="false">3ab3b24e-2279-49d6-ad6e-6bf5770169f7</guid>
+            <pubDate>Mon, 18 Jan 2016 16:18:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to the test site for the JJTS streaming service.</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/jjts-test-streams/welcome/index.html</link>
             <guid isPermaLink="false">1935e554-c6bd-47e6-b656-50dae3d86e72</guid>
             <pubDate>Mon, 18 Jan 2016 16:18:15 GMT</pubDate>
         </item>
