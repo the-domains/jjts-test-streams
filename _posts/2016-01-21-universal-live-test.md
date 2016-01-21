@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T11:00:23.307Z'
-dateModified: '2016-01-21T11:00:20.977Z'
+datePublished: '2016-01-21T11:01:52.729Z'
+dateModified: '2016-01-21T11:01:50.430Z'
 title: Universal Live - Test
 author: []
 sourcePath: _posts/2016-01-21-universal-live-test.md
@@ -27,5 +27,7 @@ _type: WebPage
 **_This Stream is for Richard Hart_**
 
 [Click Here to view the stream][0]
+
+Hosted on the JJTS-Dacast server in 1080p 25
 
 [0]: https://iframe.dacast.com/b/57499/c/83141
