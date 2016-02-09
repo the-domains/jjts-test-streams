@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T16:13:39.683Z'
-dateModified: '2016-02-09T16:13:25.299Z'
+datePublished: '2016-02-09T16:25:42.659Z'
+dateModified: '2016-02-09T16:24:59.130Z'
 title: TNT Studios
 author: []
+sourcePath: _posts/2016-02-09-tnt-studios.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-tnt-studios.md
-published: true
 url: tnt-studios/index.html
-_type: Article
+_type: WebPage
 
 ---
 # TNT Studios
