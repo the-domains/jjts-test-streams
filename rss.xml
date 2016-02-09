@@ -4,14 +4,14 @@
         <description><![CDATA[JJTS Test Streams]]></description>
         <link>https://thegrid.ai/jjts-test-streams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 16:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 16:27:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jjts-test-streams/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to the test site for the JJTS streaming service.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to the test site for the JJTS streaming service.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf25ea4c-4ceb-42e3-8dee-c015a8fe52aa.jpg"></article>]]></description>
             <link>https://thegrid.ai/jjts-test-streams/welcome/index.html</link>
             <guid isPermaLink="false">1935e554-c6bd-47e6-b656-50dae3d86e72</guid>
-            <pubDate>Thu, 21 Jan 2016 10:59:04 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 16:25:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
