@@ -1,19 +1,19 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: This site will host the Just Eat test stream. Click the link below to view
-datePublished: '2016-06-27T11:14:05.876Z'
-dateModified: '2016-06-27T11:13:56.264Z'
+datePublished: '2016-06-27T11:15:06.254Z'
+dateModified: '2016-06-27T11:14:53.162Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-27-this-site-will-host-the-just-eat-test-stream-click-the-link.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-27-this-site-will-host-the-just-eat-test-stream-click-the-link.md
 url: this-site-will-host-the-just-eat-test-stream-click-the-link/index.html
 _type: Article
 
