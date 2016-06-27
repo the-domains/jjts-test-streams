@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[JJTS Test Streams]]></title>
         <description><![CDATA[JJTS Test Streams]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jjts-test-streams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 12:18:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 12:18:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jjts-test-streams/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[JUST EAT]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c01de81-ba4f-4e49-bd65-ba9054c7f7bb.jpg">]]></description>
-            <link>undefinedjust-eat/index.html</link>
+            <link>https://thegrid.ai/jjts-test-streams/just-eat/index.html</link>
             <guid isPermaLink="false">ec06ecd1-2c96-44c3-bc14-2ee390c85c21</guid>
-            <pubDate>Mon, 27 Jun 2016 12:18:13 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2016 12:18:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
