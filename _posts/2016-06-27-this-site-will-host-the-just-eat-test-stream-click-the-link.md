@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: This site will host the Just Eat test stream. Click the link below to view
-datePublished: '2016-06-27T11:54:50.401Z'
-dateModified: '2016-06-27T11:53:25.439Z'
+datePublished: '2016-06-27T11:58:45.982Z'
+dateModified: '2016-06-27T11:57:48.290Z'
 title: JUST EAT LOGO
 author:
   - name: ''
@@ -15,7 +15,7 @@ sourcePath: >-
   _posts/2016-06-27-this-site-will-host-the-just-eat-test-stream-click-the-link.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: this-site-will-host-the-just-eat-test-stream-click-the-link/index.html
 _type: Article
 
